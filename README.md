@@ -1,0 +1,2 @@
+# doc
+Document containing wisdom.
